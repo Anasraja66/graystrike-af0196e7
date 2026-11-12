@@ -163,7 +163,7 @@ function GrayStrikeHome() {
         </div>
       </header>
 
-      <section className="hero-section" id="home">
+      <section className="hero-section" id="platform">
         <div className="hero-layout page-width">
           <div className="hero-copy">
             <a className="hero-eyebrow" href="#platform">
@@ -338,7 +338,7 @@ function GrayStrikeHome() {
         </div>
       </section>
 
-      <footer className="site-footer" id="platform">
+      <footer className="site-footer">
         <div className="page-width footer-main">
           <div className="footer-brand">
             <a className="brand" href="#home">
